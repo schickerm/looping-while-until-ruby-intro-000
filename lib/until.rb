@@ -3,6 +3,6 @@ def using_until
   #your code here
     loop do
      levitation_force += 1 
-     
+     puts 
 end
 
